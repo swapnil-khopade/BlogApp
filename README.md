@@ -14,5 +14,4 @@ Full Stack Blog Application using Spring Boot and React.
 
 - User Authentication
 - Create/Edit/Delete Posts
-- Comments
 - REST APIs
